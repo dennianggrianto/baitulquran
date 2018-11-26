@@ -1,6 +1,6 @@
-/*body {
+.login-page {
 	padding-top: 40px;
-}*/
+}
 
 .navbar {
     padding: 15px 10px;
@@ -170,7 +170,7 @@ a[data-toggle="collapse"] {
 .login-header{
 	text-align: center;
 	margin-top: 100px;
-	margin-bottom: 25px;
+	margin-bottom: 20px;
 }
 
 .login-header h2{
